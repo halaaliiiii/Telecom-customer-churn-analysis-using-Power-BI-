@@ -1,5 +1,4 @@
 # Telecom-customer-churn-analysis-using-Power-BI-
-# Customer Churn Analysis — Power BI Dashboard
 
 ## Overview
 Interactive Power BI dashboard analyzing telecom customer churn 
